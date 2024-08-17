@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "cs50 Harvard/aula1/HARVARD CS50 - AULA 1.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c8d2c5435acf6db4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d612a3fbe71e198c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "cs50 Harvard/aula1/HARVARD CS50 - AULA 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "cs50 Harvard/aula1/HARVARD CS50 - AULA 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "cs50 Harvard/aula1/HARVARD CS50 - AULA 1.md"
               }
             }
           }
@@ -160,8 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c29188880de7bc6a",
+  "active": "11ec9e4f4eb6aadc",
   "lastOpenFiles": [
+    "udemy/c-cplusplus/funções e pointeiros",
+    "C/Structs em C.md",
+    "cs50 Harvard/aula1/HARVARD CS50 - AULA 1.md",
+    "Calc 1/funções",
+    "udemy/front-end",
+    "udemy/csharp",
+    "udemy/java",
+    "udemy/c-cplusplus",
+    "Untitled",
+    "udemy",
+    "cs50 Harvard/aula1",
+    "C/POO-C",
+    "cs50 Harvard",
     "Welcome.md"
   ]
 }
